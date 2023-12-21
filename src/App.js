@@ -17,7 +17,8 @@ function App() {
     "Giáng sinh vui",
     "Giáng sinh vui vẻ",
     "Chúc bé yêu của anh",
-    "Giáng sinh vui vẻ <3 <3 <3",
+    "Giáng sinh vui vẻ <3 <3",
+    "Phạm Lê Xuân Nữ",
   ]);
 
   const [ebb] = useState([
