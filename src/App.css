@@ -1,5 +1,5 @@
 .app {
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
   background-image: url(./image/background.jpeg);
   background-position: center;
@@ -12,17 +12,18 @@
   max-width: 600px;
   height: calc(100% - 10px);
   padding-top: 10px;
+  min-height: 800px;
 }
 .app .noel .leaf-layer {
   width: 100%;
-  height: 30px;
+  height: 35px;
   display: flex;
 }
 .app .noel .leaf-layer .item {
   width: 50%;
   font-size: 20px;
   color: white;
-  margin-top: 5px;
+  margin-top: 1px;
 }
 .app .noel .leaf-layer .item.left {
   padding-right: 2px;
