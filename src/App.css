@@ -59,7 +59,7 @@
   top: -40px;
   left: 24%;
   z-index: 1;
-  transform: rotate(-25deg);
+  /* transform: rotate(-25deg); */
 }
 .app .noel .img-ctn .img2 {
   width: 180px;
